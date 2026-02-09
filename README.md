@@ -1,4 +1,4 @@
-# nasometer
+# mNasometer
 Description: A pure dart/flutter based cross platform (Android and IOS) app
 for nasalance calculation by ysubg the flutter 'Sound' pacjage
 
